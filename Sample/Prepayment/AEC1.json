@@ -37,7 +37,7 @@
                     "Isprepayment": "Yes",
                     "PrepaymentRequestnumber": "AEC_300901",
                     "CreditMemoRequestItem": "",
-                    "SalesOrder": "3AE0000862",
+                    "SalesOrder": "",
                     "RequestedQuantityUnit": "Auction",
                     "RequestedQuantity": 1,
                     "ProfitCenter": "TikTok",
@@ -46,7 +46,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "ConditionType": "ZSFN",
                             "ConditionRateValue": 1000,
                             "ConditionCurrency": "USD"
@@ -57,7 +57,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX03",
                             "LongText": "TikTok SL_TikTok_Atlas Axillia_Atlas Axillia Co. (Pvt) Ltd ",
                             "Language": "EN"
@@ -65,7 +65,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX04",
                             "LongText": "00258744",
                             "Language": "EN"
@@ -73,7 +73,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX07",
                             "LongText": "Atlas Axillia Co. (Pvt) Ltd Sri Lanka",
                             "Language": "EN"
@@ -81,7 +81,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX08",
                             "LongText": "2024-12-01T00:00:00Z",
                             "Language": "EN"
@@ -89,7 +89,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX09",
                             "LongText": "2024-12-31T00:00:00Z",
                             "Language": "EN"
@@ -97,7 +97,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX10",
                             "LongText": "Atlas Axillia Company (Private) Ltd",
                             "Language": "EN"
@@ -105,7 +105,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX12",
                             "LongText": "Auction In-Feed Video",
                             "Language": "EN"
@@ -113,7 +113,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX13",
                             "LongText": "Dileena Fernando",
                             "Language": "EN"
@@ -121,7 +121,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX14",
                             "LongText": "233.40",
                             "Language": "EN"
@@ -129,7 +129,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX15",
                             "LongText": "292.583300",
                             "Language": "EN"
@@ -137,7 +137,7 @@
                         {
                             "SalesOrderItem": "",
                             "CreditMemoRequestItem": "",
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "LongTextID": "ZX16",
                             "LongText": "292.583300",
                             "Language": "EN"
@@ -146,18 +146,18 @@
                     "ItemBillingBlockReason": "",
                     "to_billingplan": [
                         {
-                            "SalesOrder": "3AE0000862",
+                            "SalesOrder": "",
                             "SalesOrderItem": "",
                             "BillingPlan": "",
                             "BillingPlanIsInHeader": false,
                             "to_billingplanitem": [
                                 {
-                                    "SalesOrder": "3AE0000862",
+                                    "SalesOrder": "",
                                     "SalesOrderItem": "",
                                     "BillingPlan": "",
                                     "BillingPlanItem": "",
                                     "BillingPlanDateCategory": "04",
-                                    "BillingPlanBillingDate": "",
+                                    "BillingPlanBillingDate": "2025-12-03",
                                     "BillingPlanAmount": "1000.0",
                                     "BillingBlockReason": ""
                                 }
@@ -166,7 +166,7 @@
                     ]
                 }
             ],
-            "SalesOrder": "3AE0000862",
+            "SalesOrder": "",
             "CreditMemoRequest": "",
             "PurchaseOrderByCustomer": "AEC1STPOH115",
             "OrganizationDivision": "10",
